@@ -1,3 +1,4 @@
 *.json
 tarantool
 tc*
+!schemas/*.json
